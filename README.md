@@ -10,7 +10,7 @@
 
 我们在仓库里提供了2个必须的文件，包括：
 
-- **auto_get_lesson_pic_recognize.py **：脚本文件
+- **auto_get_lesson_pic_recognize.py**：脚本文件
 -  **info.xlsx**：执行操作信息文件
 
 在运行这个脚本（**auto_get_lesson_pic_recognize.py**）前，你需要：
