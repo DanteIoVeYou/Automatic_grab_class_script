@@ -1,6 +1,6 @@
 # 自动抢课脚本使用手册
 
-@danteking 2021.12.7
+@danteking dating from 2021.12.7 and last updating at 2021.12.8
 
 ---
 
