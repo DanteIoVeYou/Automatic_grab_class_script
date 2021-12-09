@@ -29,7 +29,7 @@ python --version
 # pyautogui库
 pip install pyautogui
 # 读取excel表格的库
-pip install xlrd 
+pip install xlrd==1.2.0
 # 向计算机的剪贴板发送文本/从计算机剪贴板接收文本的库
 pip install pyperclip
 # 计算机视觉库
